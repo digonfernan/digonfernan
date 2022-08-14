@@ -1,4 +1,4 @@
-# Olá! 🌎
+# 🌎 Olá!
 
 ![hello earth](https://user-images.githubusercontent.com/88410096/184493412-9aafb25f-3c24-40b1-a648-a42edce47703.PNG)
 
