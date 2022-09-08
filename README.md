@@ -19,7 +19,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### 📚 CV:
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
+![Google Drive]('https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white' (https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing))
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing)
 
 ## 🗺️ Onde me encontrar:
