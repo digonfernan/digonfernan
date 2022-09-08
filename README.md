@@ -18,8 +18,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+### ⛰️ Cursos e certificados:
+Tenho previsto mais de 1500 h entre cursos e projetos! Saiba mais e acompanhe minha evolução por meio do meu [learning path!](https://docs.google.com/spreadsheets/d/1m0wzxjn2hLginp48QwC-GRcaBV54rrhlYhibff-25Wc/edit?usp=sharing)
+
 ### 📚 CV:
-![Google Drive]('https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white' (https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing))
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing)
 
 ## 🗺️ Onde me encontrar:
