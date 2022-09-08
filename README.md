@@ -19,7 +19,7 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ⛰️ Cursos e certificados:
-Tenho previsto mais de 1500 h entre cursos e projetos! Saiba mais e acompanhe minha evolução por meio do meu [learning path!](https://docs.google.com/spreadsheets/d/1m0wzxjn2hLginp48QwC-GRcaBV54rrhlYhibff-25Wc/edit?usp=sharing)
+Tenho previsto quase 2000 h entre cursos e projetos! Saiba mais e acompanhe minha evolução por meio do meu [learning path!](https://docs.google.com/spreadsheets/d/1m0wzxjn2hLginp48QwC-GRcaBV54rrhlYhibff-25Wc/edit?usp=sharing)
 
 ### 📚 CV:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing)
