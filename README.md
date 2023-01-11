@@ -8,7 +8,9 @@
 
 ● Estou cursando um MBA em Ciência de Dados juntamente com diversos cursos relacionados, sempre empenhado em aprender os melhores métodos e ferramentas.
 
-● Durante meus 10 anos de experiência em projetos de engenharia desenvolvi múltiplas competências com foco em análise e gestão.
+● Durante meus 10 anos de experiência em projetos de engenharia participei de projetos para grandes empresas como Amazon, Coca Cola, Fiat e várias outras.
+
+● Desenvolvi múltiplas competências com foco em análise e gestão, em especial 3 anos de experiência em gerência de projetos.
 
 ● Sou criativo, independente e movido por desafios e inovações.
 
