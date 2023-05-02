@@ -4,20 +4,19 @@
 
 ## 💡 Sobre mim:
 
-● Engenheiro civil formado e entusiasta por dados e tecnologia em transição de carreira.
+Sou um engenheiro civil que fez a transição para a área de ciência de dados.
 
-● Estou cursando um MBA em Ciência de Dados juntamente com diversos cursos relacionados, sempre empenhado em aprender os melhores métodos e ferramentas.
+Tenho paixão por resolver problemas complexos e durante minha trajetória, percebi que a ciência de dados era o match que faltava para minha carreira.
 
-● Durante meus 10 anos de experiência em projetos de engenharia participei de projetos para grandes empresas como Amazon, Coca Cola, Fiat e várias outras.
+Estou sempre empenhado em aprender os melhores métodos e ferramentas.
 
-● Desenvolvi múltiplas competências com foco em análise e gestão, em especial 3 anos de experiência em gerência de projetos.
+Criatividade e independência são minhas principais características.
 
-● Sou criativo, independente e movido por desafios e inovações.
+Focado em desafios e inovações.
 
 ### 👨‍💻 Habilidades:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ⛰️ Cursos e certificados:
