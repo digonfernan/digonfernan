@@ -12,11 +12,6 @@ Driven by curiosity, I am always committed to learning the best methods and tool
 
 I am creative, independent and focused on challenges and innovation.
 
-### 👨‍💻 Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
 ### ⛰️ Courses and certificates:
 I have planned almost 2000 hours between courses and projects! Learn more and follow my evolution through my [learning path!](https://docs.google.com/spreadsheets/d/1m0wzxjn2hLginp48QwC-GRcaBV54rrhlYhibff-25Wc/edit?usp=sharing)
 
