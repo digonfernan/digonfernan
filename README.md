@@ -4,7 +4,7 @@
 
 ## 💡 About me:
 
-A former civil engineer audacious (or crazy) enough to dive into the ocean of data science.
+An ex-civil engineer audacious (or crazy) enough to dive into the ocean of data science.
 
 I have a passion for solving complex problems, and along the way I've found that being a data detective is more fun than building concrete structures.
 
