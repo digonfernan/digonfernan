@@ -13,7 +13,7 @@ Driven by curiosity, I am always committed to learning the best methods and tool
 I am creative, independent and focused on challenges and innovation.
 
 ### ⛰️ Courses and certificates:
-I have planned hundreds of hours of courses and projects! Learn more and follow my evolution through my [learning path!](https://docs.google.com/spreadsheets/d/1m0wzxjn2hLginp48QwC-GRcaBV54rrhlYhibff-25Wc/edit?usp=sharing)
+I have planned hundreds of hours of courses and projects! Learn more and follow my evolution through my [learning path!](https://metal-sky-14c.notion.site/a5715cebaa884b1cbaf941bc3139eceb)
 
 ### 📚 CV:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing)
