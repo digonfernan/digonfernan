@@ -6,7 +6,7 @@
 
 An ex-civil engineer audacious (or crazy) enough to dive into the ocean of data science.
 
-I have a passion for solving complex problems, and along the way I've found that being a data detective is more fun than building concrete structures.
+I have a passion for solving complex problems, and along the way I've found that being a data detective is more fun than building concrete and steel structures.
 
 Driven by curiosity, I am always committed to learning the best methods and tools.
 
