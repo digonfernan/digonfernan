@@ -17,7 +17,6 @@ I have planned hundreds of hours of courses and projects! Learn more and follow 
 
 ### 📚 CV:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googledrive.svg' alt='googledrive' height='40'>](https://drive.google.com/file/d/10jViJh_cdb2uDhL1OF8BiTGMEngrtkIh/view?usp=sharing)
 
 ## 🗺️ Where to find me:
 
