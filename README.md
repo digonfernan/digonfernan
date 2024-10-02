@@ -25,6 +25,3 @@ I have planned hundreds of hours of courses and projects! Learn more and follow 
 
 ## 😸 GitHub :
 Here I will post some projects carried out during my learning trajectory and other personal ones.
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=digonfernan&show_icons=true&theme=darcula" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=digonfernan&layout=compact" />
