@@ -10,7 +10,7 @@ I have a passion for solving complex problems, and along the way I've found that
 
 Driven by curiosity, I am always committed to learning the best methods and tools.
 
-I am creative, independent and focused on challenges and innovation.
+I am creative and focused on challenges and innovation.
 
 ### ⛰️ Courses and certificates:
 I have planned hundreds of hours of courses and projects! Learn more and follow my evolution through my [learning path!](https://metal-sky-14c.notion.site/a5715cebaa884b1cbaf941bc3139eceb?v=349cbe48465c4fe0ab6db11814451e45)
