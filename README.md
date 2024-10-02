@@ -22,7 +22,6 @@ I have planned hundreds of hours of courses and projects! Learn more and follow 
 ## 🗺️ Where to find me:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rodrigonascimentofernandes//)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rodrigonascimentofernandes)
 
 ## 😸 GitHub :
 Here I will post some projects carried out during my learning trajectory and other personal ones.
